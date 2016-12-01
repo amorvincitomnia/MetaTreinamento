@@ -43,7 +43,7 @@ Realize todo o processo até ter detalhado a menor parte divisível.
 
 Ao ter concluído esse passo, procure observar se os tópicos adicionados se atém ao objetivo geral. Ou foram somente adicionando por parecerem “divertidos”, “legais”.
 
-Realize uma segunda revisão, levando em conta o conhecimento anterior do grupo de participantes. 
+Realize uma segunda revisão, levando em conta o conhecimento anterior do grupo de participantes.
 
 * Opcional: Criar um pequeno formulário (pode ser no google form), com os tópicos que irá apresentar. Aplicar esse formulário no grupo que será treinado, de forma a ter uma referência inicial neste momento.
 
