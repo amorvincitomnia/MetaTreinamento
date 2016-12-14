@@ -1,11 +1,11 @@
-#Introdução
+#Treinamento
 
 [TOC]
 
 ##Termos e definições
 
 * **Competência** - Aplicação do conhecimento, habilidade e comportamento no desempenho.
-* **Treinamento** - Processo para desenvolver e prover conhecimento, habilidades e comportamentos pra atender requisitos.
+* **Treinamento** - Processo para desenvolver e prover conhecimento, habilidades e comportamentos pra atender necessidades levantadas.
 * **Instrutor** - Pessoal que aplica um método de treinamento.
 * **Treinando** - Pessoal ao qual será aplicado o método de treinamento.
 
@@ -19,7 +19,7 @@ Visão geral do processo de treinamento, como um processo de quatro estágios.
 
 ###Levantamento das necessidades
 
-O levantamento tem por objectivo identificar as carências de indivíduos e/ou grupos para a execução das tarefas dentro da organização.
+O levantamento tem por objetivo identificar as carências de indivíduos e/ou grupos para a execução das tarefas dentro da organização.
 Deve-se realizar uma análise da demanda, de forma a conhecer o publico-alvo e identificar as necessidades.
 
 **Exemplos de necessidades:**
@@ -27,16 +27,16 @@ Deve-se realizar uma análise da demanda, de forma a conhecer o publico-alvo e i
 * Aperfeiçoar o conhecimento em refatoração, para melhor lidar com deficit técnico.
 * Utilização de um novo framework.
 
-Este levantamento pode ser realizado por diversos meios, entrevistas, questionários, etc.
-É adequado que antes de inciar o plano de treinamento, se realize uma análise das necessidades, as relacionando as competências que se desejam obter.
+Este levantamento pode ser realizado por diversos meios, como entrevistas, questionários, etc.
+É adequado que, antes de iniciar o plano de treinamento, se realize uma análise das necessidades, as relacionando as competências que se desejam obter.
 
 #### Definição do objetivo
-O objetivo do treinamento deve se basear nas competências a serem desenvolvidas. Sendo este o resultado de sucesso efetivo esperado. Definindo as lacunas entre o conhecimento/competência existente e a requerida/desejada.
+O objetivo do treinamento deve se basear nas competências a serem desenvolvidas, sendo este o resultado de sucesso efetivo esperado. Deve-se definir as lacunas entre o conhecimento/competência existente e a requerida/desejada.
 
-Após essa definição, é necessário determinar se tais lacunas podem ser supridas por um treinamento , ou outra ação pode ser necessária. Como reformulação de processo, melhoria e/ou substituição de recursos.
+Após essa definição, é necessário determinar se tais lacunas podem ser supridas por um treinamento , ou outra ação pode ser necessária, como reformulação de processo, melhoria e/ou substituição de recursos.
 
 Como ponto final nesta etapa, é importante se ter em mente:
-* **Treinamentos Essências** - imprescindíveis para a formação das competências mínimas requeridas.
+* **Treinamentos Essênciais** - imprescindíveis para a formação das competências mínimas requeridas.
 * **Treinamentos Desejáveis** - aperfeiçoamento de habilidades e competências, de forma a possibilitar melhoria individual/profissional.
 
 ###Projeto e Planejamento
@@ -48,15 +48,15 @@ Após o diagnóstico de necessidades, passa-se à enumeração das ações com v
 Há itens que podem restringir o processo de treinamento, tais como:
 
 * **Requisitos regulamentares impostos por lei** - Limites de licenças ou copyright, de softwares ou materiais utilizado.
-* **Considerações financeiras** - Custos de matérias, ferramental. Assim como do tempo hora/pessoa necessário para adquirir proficiente no conhecimento abordado.
+* **Considerações financeiras** - Custos de material e do tempo hora/pessoa necessário para adquirir proficiente no conhecimento abordado.
 * **Requisitos de prazo e programação** - Tempo limite para determinado grupo atingir proficiência em determinado assunto. Comum a equipes que estejam iniciando um projeto em novo domínio.
 * **Disponibilidade, motivação e capacidade da pessoa a ser treinada** - Para certas modalidades de treinamento é necessário obter um número mínimo de pessoas a serem treinadas. Outro ponto que pode restringir o treinamento, é a necessidade de conhecimento/proficiência anterior em determinado assunto.
 
 ####Definição dos métodos
 
-Dentre a definição dos métodos o autotreinamento e treinamento no local de trabalho são os que mais se adéquam a nossa realidade.
+Dentre a definição dos métodos o autotreinamento e treinamento no local de trabalho são os que mais se adequam a nossa realidade.
 
-* **Autotreinamento** - Fazendo uso de um conjunto de materiais e autoavaliações, práticas e teóricas, o treinado obtêm o conhecimento sem a necessidade de acompanhamento externo. Sendo necessário para fiz de melhoria e auditoria do processo de treinamento, a preparação de um relatório do treinamento.
+* **Autotreinamento** - Fazendo uso de um conjunto de materiais e autoavaliações, práticas e teóricas, o treinado obtêm o conhecimento sem a necessidade de acompanhamento externo. É necessário, para fim de melhoria e auditoria do processo de treinamento, a preparação de um relatório do treinamento.
 	* **Projetos protótipos** - Uso de pequenos projetos, de forma a fixar o conhecimento e domínio de ferramental
 * **Treinamento em local de trabalho** - O conhecimento é passado para os treinados com um auxilio de um instrutor/facilitador. Possuindo variações:
 	* **Workshop** - Um momento para promover o aprendizado de forma prática.
@@ -65,10 +65,10 @@ Dentre a definição dos métodos o autotreinamento e treinamento no local de tr
 
 ####Critérios de seleção
 
-Para uma correta escolha de método é importante observar as seguintes questões:
+Para uma correta escolha de método, é importante observar as seguintes questões:
 
-* **Data e local** - Para certas modalidades de treinamento, faz-se necessário proceguir de forma continuo por maior período de tempo, subdividindo o treinamento em menores partes. Logo deve se observar a agenda de projetos para o momento mais propício. De forma a não perder a cadencia de ensino nem afetar os processos internos.
-* **Infraestrutura e instalações** - Treinamentos em local de trabalho, pressuporem que todos terão em mãos os recursos necessário para realização dos estudos. Portanto é importante dimensionar corretamente a estrutura disponível. Ajustes podem ser feitos posteriormente para alterar a escala.
+* **Data e local** - Para certas modalidades de treinamento, faz-se necessário prosseguir de forma continua por maior período de tempo, subdividindo o treinamento em menores partes. Logo,deve se observar a agenda de projetos para o momento mais propício, de forma a não perder a cadencia de ensino nem afetar os processos internos.
+* **Infraestrutura e instalações** - Treinamentos em local de trabalho pressupoem que todos terão em mãos os recursos necessários para realização dos estudos. Portanto, é importante dimensionar corretamente a estrutura disponível.
 * **Custo** - Aquisição de recursos. Um tópico posterior trata da questão custo/hora.
 * **Objetivos do treinamento** - Qual a lacuna de conhecimento que se deseja preencher.
 * **Público-alvo** - Cargos, ou atividades profissionais, número de participantes.
@@ -86,12 +86,12 @@ Qual é o objetivo do treinamento. Quais os objetivos básico que se deseja obte
 Objetivo Geral: Capacitar os desenvolvedores na ferramenta de gestão de versões Git de forma a dominarem o mundo.*
 
 ##### Limite de tempo
-Determine o tempo necessário para realizar o treinamento (aplicar). Antes de preparar e começar a organizar os assuntos. Com essa informação determine a necessidade ou não de dividir o treinamento em menores partes.
+Determine o tempo necessário para aplicar o treinamento, antes de preparar e começar a organizar os assuntos. Com essa informação determine a necessidade ou não de dividir o treinamento em menores partes.
 
->*Carga Horário 5 horas - Aplicação: Duas apresentações de 1 hora cada, e 3 horas de workshop com hand-on.*
+>*Carga Horário 5 horas - Aplicação: Duas apresentações de 1 hora cada e 3 horas de workshop com hand-on.*
 
 ##### O Plano
-Detalhando na forma de temas, tópicos e seus objetivos específicos. Cada tópico deve possuir um objetivo específico. Este também deve possuir o método utilizado para passar esse conhecimento. O tópico ainda deve apresentar o tempo estimado a sua realização.
+Detalhar o  plano na forma de temas, tópicos e seus objetivos específicos. Cada tópico deve possuir um objetivo específico. Este também deve possuir o método utilizado para passar esse conhecimento. O tópico ainda deve apresentar o tempo estimado a sua realização.
 
 É recomendado definir quais recursos irá utilizar para abordar cada tópico.
 
@@ -116,7 +116,7 @@ Talvez sejam interessante partir para tópicos mais avançados de forma a manter
 * Opcional: Peça para o plano ser revisado, antes da entrega para avaliação.
 
 ##### Aprovação
-Passe para aprovação, caso seja necessária. Se forem necessários ajustes, devido a questões de tempo, conteúdo, ou mesmo tecnologia empregada. Crie uma segunda versão do plano de curso, realizando os ajustes necessários.
+Passe para aprovação, caso seja necessária. Se foram necessários ajustes, devido a questões de tempo, conteúdo, ou mesmo tecnologia empregada, crie uma segunda versão do plano de curso, realizando os ajustes necessários.
 
 ##### Produção
 Com o plano de curso revisado e aprovado, pode iniciar a produção do material que utilizará para o ensino.
@@ -129,15 +129,15 @@ Seguindo a estrutura definida anteriormente, parte-se para execução do treinam
 * A eficiência dos resultados
 * Monitoração da qualidade do treinamento oferecido.
 
-####Atividades de apoio
+####Aplicação do treinamento
 
-##### Apoio Pré-treinamento
-O objetivo desta etapa é garantir o fornecimento dos recursos, e o nivelamento básico do treinandos. De forma a obter o melhor aproveitamento do treinamento.
+##### Pré-treinamento
+O objetivo desta etapa é garantir o fornecimento dos recursos, e o nivelamento básico do treinandos, de forma a obter o melhor aproveitamento do treinamento.
 
 * Fornecer ao instrutor as informações necessárias e acesso ao recursos que serão utilizados.
-* Informar o treinando sobre a natureza do treinamento, quais lacunas de competência se pretende eliminar. Se necessário quais recursos este deve ter anteriormente a iniciar o treinamento.
+* Informar o treinando sobre a natureza do treinamento, quais lacunas de competência se pretende eliminar. Se necessário, quais recursos este deve ter anteriormente a iniciar o treinamento.
 
-##### Apoio Treinamento
+##### Treinamento
 Etapa operacional, abrange o treinamento em si.
 
 * Fornecer a infraestrutura necessária.
@@ -145,7 +145,7 @@ Etapa operacional, abrange o treinamento em si.
 * Feedback sobre o desenvolvimento da atividade. Instrutor/Treinando.
 * Avalização do conhecimento absorvido por parte do Treinando.
 
-##### Apoio Pós-treinamento
+##### Pós-treinamento
 Esta etapa se destina princialmente à avaliação, melhoramento, métrica e auditoria.
 
 * **Recebimento de informações do treinado** - através de um relatório de treinamento, para avalização da satisfação e qualidade do material apresentado nessa perspectiva.
@@ -174,7 +174,7 @@ Os resultados do treinamento em geral não podem ser plenamente abalizados até 
 
 É conveniente que as avaliações  sejam feitas, em mais de um período:
 
-* **A custo prazo** - Avaliação de opinião sobre métodos/recursos adotados, e sobre os conhecimento e habilidades adquiridas como resultado. *Um exemplo: Ao se fazer usado da metodologia de projetos protótipos, pode-se obter uma métrica da proficiência do treinado naquele cenário.*
+* **A curto prazo** - Avaliação de opinião sobre métodos/recursos adotados, e sobre os conhecimento e habilidades adquiridas como resultado. *Um exemplo: Ao se fazer usado da metodologia de projetos protótipos, pode-se obter uma métrica da proficiência do treinado naquele cenário.*
 * **A longo prazo** - Avaliação da melhoria de produtividade/qualidade e do desempenho no trabalho.
 
 ##### Melhoria
