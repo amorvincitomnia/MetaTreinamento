@@ -181,16 +181,9 @@ Este relatório pode incluir:
 
 ###Avaliação dos resultados
 Corresponde ao último estágio do processo de treinamento. Para permitir comparar o resultado ao esperado na execução.
+A permanência dos problemas/lacunas diagnosticados após treinamento, deve levar a uma avaliação dos seguintes pontos para um replanejamento do treinamento.
 
 Os resultados do treinamento em geral não podem ser plenamente abalizados até que o aluno possa ser observado e avaliado no desempenho do seu trabalho.
-
-É conveniente que as avaliações  sejam feitas, em mais de um período:
-
-* **A curto prazo** - Avaliação de opinião sobre métodos/recursos adotados, e sobre os conhecimento e habilidades adquiridas como resultado. *Um exemplo: Ao se fazer uso da metodologia de projetos protótipos, pode-se obter uma métrica da proficiência do treinado naquele cenário.*
-* **A longo prazo** - Avaliação da melhoria de produtividade/qualidade e do desempenho no trabalho.
-
-#### Melhoria
-A permanência dos problemas/lacunas diagnosticados após treinamento, deve levar a uma avaliação dos seguintes pontos para um replanejamento do treinamento.
 
 * **O diagnóstico foi mal feito** - a avaliação não está adequada ao tipo de atividade que se deseja avaliar.
 * **A programação não foi correta** - o sequenciamento do conteúdo não foi adequado para sua assimilação.
@@ -200,6 +193,10 @@ A permanência dos problemas/lacunas diagnosticados após treinamento, deve leva
 * **O aluno não era capaz para aquele tipo de treinamento** - não possuía o conhecimento básico necessário para aquisição de temas mais avançados.
 * **O conteúdo apresentado não está atualizado** - o material apresenta informações defasadas quanto a tecnologia ou ferramental.
 * **Infra Estrutura não adequada** - Os recursos utilizados no treinamento, os quais podem possibilitar uma melhoria na aprendizagem quando corretamente dimensionados ao número de alunos, e com didática condizente. Para garantir a padronização do treinamento, e a correta validação posterior é de suma importância que sejam discriminados nas observações do instrutor, quais materiais foram planeados, quais foram realmente utilizados.
+
+É conveniente que as avaliações sejam feitas, em mais de um período. 
+* **A curto prazo** -Opinião sobre métodos/recursos adotados, e sobre os conhecimento e habilidades adquiridas como resultado. *Um exemplo: Ao se fazer uso da metodologia de projetos protótipos, pode-se obter uma métrica da proficiência do treinado naquele cenário.*
+* **A longo prazo** - Melhoria de produtividade/qualidade e do desempenho no trabalho.
 
 ---
 
