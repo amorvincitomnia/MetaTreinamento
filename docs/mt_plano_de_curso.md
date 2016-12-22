@@ -47,7 +47,7 @@ Realize uma segunda revisão, levando em conta o conhecimento anterior do grupo 
 
 * Opcional: Criar um pequeno formulário (pode ser no google form), com os tópicos que irá apresentar. Aplicar esse formulário no grupo que será treinado, de forma a ter uma referência inicial neste momento.
 
-Talvez sejam interessante partir para tópicos mais avançados de forma a manter o interesse. Ou o inverso, diminuir e tornar mais dinâmico o material e recursos para auxiliar o entendimento de temas mais complexos.
+Talvez seja interessante partir para tópicos mais avançados de forma a manter o interesse. Ou o inverso, diminuir e tornar mais dinâmico o material e recursos para auxiliar o entendimento de temas mais complexos.
 
 * Opcional: Peça para o plano ser revisado, antes da entrega para avaliação.
 
@@ -58,3 +58,5 @@ Se forem necessários ajustes, devido a questões de tempo, conteúdo, ou mesmo 
 
 ###6. Produção
 Com o plano de curso revisado e aprovado, pode iniciar a produção do material que utilizará para o ensino.
+
+
