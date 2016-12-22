@@ -1,4 +1,4 @@
-#Meta-Treinamento: Plano de curso
+#Meta-Treinamento: Plano de aula
 [TOC]
 
 ###1. Início - Objetivo
