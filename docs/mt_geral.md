@@ -41,8 +41,7 @@ Após essa definição, é necessário determinar se tais lacunas podem ser supr
 
 Como ponto final nesta etapa, é importante se ter em mente:
 * **Treinamentos Básico** - imprescindíveis para a formação das competências mínimas requeridas.
-* **Treinamentos Intermediário** - aperfeiçoamento de habilidades e competências, de forma a possibilitar melhoria individual/profissional.
-* **Treinamentos Avançado** - ???
+* **Treinamentos Intermediário/Avançado** - aperfeiçoamento de habilidades e competências, de forma a possibilitar melhoria individual/profissional.
 
 ###Projeto e Planejamento
 
@@ -81,24 +80,24 @@ Para uma correta escolha de método, é importante observar as seguintes questõ
 
 ---
 
-####Plano de treinamento/Curso
+###Plano de treinamento/Curso
 
 Deve-se ter como objetivo do treinamento as competências a serem desenvolvidas, com a finalidade ter o correto foco é propiciar uma comunicação clara e aberta.
 
-##### Início - Defina o objetivo
+#### Início - Defina o objetivo
 Qual é o objetivo do treinamento. Quais os objetivos básico que se deseja obter? Quais lacunas de conhecimento se espera preencher neste processo.
 
 >* *Objetivo Geral: Capacitar os desenvolvedores na ferramenta de gestão de versões Git de forma a dominarem o mundo.*
 * objetivos específicos: Uso da interface de linha de comando para operação da ferramenta. 
 
-##### Limite de tempo
+#### Limite de tempo
 Determine o tempo necessário para aplicar o treinamento, antes de preparar e começar a organizar os assuntos. Com essa informação determine a necessidade ou não de dividir o treinamento em menores partes.
 
 >*Carga Horário 5 horas - Aplicação: Duas apresentações de 1 hora cada e 3 horas de workshop com hand-on.*
 
 >**!** - Antes de detalhar é apenas uma pré-estimativa. Na prática, ainda no estágio do plano, se apresenta como um processo interativo (muito extenso: enxugar, muito curto: detalhar mais), sendo esta validade na primeira execução.
 
-##### O Plano
+#### O Plano
 Detalhar o  plano na forma de temas, tópicos e seus objetivos específicos. Cada tópico deve possuir um objetivo específico. Este também deve possuir o método utilizado para passar esse conhecimento. O tópico ainda deve apresentar o tempo estimado a sua realização.
 
 É recomendado definir quais recursos irá utilizar para abordar cada tópico.
@@ -119,16 +118,16 @@ Talvez seja interessante partir para tópicos mais avançados de forma a manter 
 
 * Opcional: Peça para o plano ser revisado por outro colaborador, antes da entrega para avaliação.
 
-##### Aprovação
+#### Aprovação
 Passe para aprovação, caso seja necessária. Se foram necessários ajustes, devido a questões de tempo, conteúdo, ou mesmo tecnologia empregada, crie uma segunda versão do plano de curso, realizando os ajustes necessários.
 
-##### Produção
+#### Produção
 Com o plano de curso revisado e aprovado, pode iniciar a produção do material que utilizará para o ensino.
 
-##### Revisão
+#### Revisão
 Realizar uma revisão do conteúdo detalhado.
 
-###Execução
+### Execução
 
 Seguindo a estrutura definida anteriormente, parte-se para execução do treinamento com a sua aplicação prática, possuindo três fatores fundamentais:
 
@@ -138,9 +137,9 @@ Seguindo a estrutura definida anteriormente, parte-se para execução do treinam
 
 ---
 
-####Aplicação do treinamento
+###Aplicação do treinamento
 
-##### Pré-treinamento
+#### Pré-treinamento
 O objetivo desta etapa é garantir o fornecimento dos recursos, e o nivelamento básico do alunos, de forma a obter o melhor aproveitamento do treinamento.
 
 * Fornecer ao instrutor* as informações necessárias e acesso ao recursos que serão utilizados.
@@ -148,13 +147,13 @@ O objetivo desta etapa é garantir o fornecimento dos recursos, e o nivelamento 
 
 >*O instrutor pode ou não ser o elaborador do conteúdo.
 
-##### Treinamento
+#### Treinamento
 Etapa operacional, abrange o treinamento em si.
 
 * Fornecer a infraestrutura necessária.
 * Fornecer oportunidades/atividades pertinentes para o treinado de forma a aplicar as competências em desenvolvimento.
 
-##### Pós-treinamento
+#### Pós-treinamento
 Esta etapa se destina principalmente à avaliação, melhoramento, métrica e auditoria.
 
 * **Recebimento de informações do treinado** - através de um relatório de treinamento, para avaliação da satisfação e qualidade do material apresentado nessa perspectiva.
@@ -164,7 +163,7 @@ Esta etapa se destina principalmente à avaliação, melhoramento, métrica e au
 
 >**!** - **Avaliação como validação de conhecimento prévio** - Se houver casos que alunos, desejam somente validar seu conhecimento prévio, no assunto do treinamento.  Deve-se dar como opção, realizar a avaliação de forma isolada.
 
-###### Relatório de avaliação
+##### Relatório de avaliação
 É conveniente que ao concluir o treinamento, este seja devidamente documentado nos registros de treinamento.
 Este relatório pode incluir:
 
@@ -180,7 +179,7 @@ Este relatório pode incluir:
 
 ---
 
-####Avaliação dos resultados
+###Avaliação dos resultados
 Corresponde ao último estágio do processo de treinamento. Para permitir comparar o resultado ao esperado na execução.
 
 Os resultados do treinamento em geral não podem ser plenamente abalizados até que o aluno possa ser observado e avaliado no desempenho do seu trabalho.
@@ -190,7 +189,7 @@ Os resultados do treinamento em geral não podem ser plenamente abalizados até 
 * **A curto prazo** - Avaliação de opinião sobre métodos/recursos adotados, e sobre os conhecimento e habilidades adquiridas como resultado. *Um exemplo: Ao se fazer uso da metodologia de projetos protótipos, pode-se obter uma métrica da proficiência do treinado naquele cenário.*
 * **A longo prazo** - Avaliação da melhoria de produtividade/qualidade e do desempenho no trabalho.
 
-##### Melhoria
+#### Melhoria
 A permanência dos problemas/lacunas diagnosticados após treinamento, deve levar a uma avaliação dos seguintes pontos para um replanejamento do treinamento.
 
 * **O diagnóstico foi mal feito** - a avaliação não está adequada ao tipo de atividade que se deseja avaliar.
@@ -204,9 +203,9 @@ A permanência dos problemas/lacunas diagnosticados após treinamento, deve leva
 
 ---
 
-###Monitoramento e Auditoria
+##Monitoramento e Auditoria
 
-####Validação do processo de treinamento
+###Validação do processo de treinamento
 Conduzida por um profissional externo, que verifique se os o processo de treinamento foi conduzido da maneira estabelecida.
 Para a melhoria contínua do processo de treinamento, deve ser coletado, identificado e registrado, todos os itens não conformes aos procedimentos e requisitos. Propondo ações corretivas para melhoria.
 
