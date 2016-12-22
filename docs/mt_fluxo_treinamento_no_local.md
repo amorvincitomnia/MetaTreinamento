@@ -20,7 +20,7 @@ Objetivo geral da lacuna a de conhecimento ser preenchida
 
 ## Internalização - Hands-on (30 min)
 
-Dois blocos (15 min), com diferentes perspectiva sobre a atividade (Execução com didáticas distintas).
+Dois blocos (15 min)^1^, com diferentes perspectiva sobre a atividade (Execução com didáticas distintas).
 
 ## Protótipo - Definição (10 min)
 
@@ -53,3 +53,8 @@ Solicitar que os treinados preencham os relatório sobre o treinamento
 
 Anexar todos os materiais e relatórios produzidos com e durante o treinamento. Ajustar o relatório geral de treinamento.
 
+---
+
+#Referências
+
+1. Why Long Lectures Are Ineffective. Disponível em: <http://ideas.time.com/2012/10/02/why-lectures-are-ineffective/>. Acesso em 22 de dezembro de 2016
