@@ -127,7 +127,7 @@ Com o plano de curso revisado e aprovado, pode iniciar a produção do material 
 #### Revisão
 Realizar uma revisão do conteúdo detalhado.
 
-### Execução
+#### Execução
 
 Seguindo a estrutura definida anteriormente, parte-se para execução do treinamento com a sua aplicação prática, possuindo três fatores fundamentais:
 
