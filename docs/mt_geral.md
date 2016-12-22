@@ -7,7 +7,7 @@
 * **Competência** - Aplicação do conhecimento, habilidade e comportamento no desempenho.
 * **Treinamento** - Processo para desenvolver e prover conhecimento, habilidades e comportamentos pra atender necessidades levantadas.
 * **Instrutor** - Pessoal que aplica um método de treinamento.
-* **Treinando** - Pessoal ao qual será aplicado o método de treinamento.
+* **Aluno** - Pessoal ao qual será aplicado o método de treinamento.
 
 ## Geral
 Visão geral do processo de treinamento, como um processo de quatro estágios.
@@ -109,7 +109,7 @@ Detalhar o  plano na forma de temas, tópicos e seus objetivos específicos. Cad
 |Demo Dominação Mundial|Validação do conhecimento apresentado|Realização de um pequeno desafio|Hand-on, Github code|3 horas|
 
 ##### Revisão
-Realize todo o processo até ter detalhado a menor parte divisível.
+Realize todo o processo até ter detalhado a conceitos básicos, que possam ser facilmente aprendidos.
 
 Ao ter concluído esse passo, procure observar se os tópicos adicionados se atém ao objetivo geral. Ou foram somente adicionando por parecerem *“divertidos”* e/ou *“legais”*.
 
@@ -123,9 +123,12 @@ Passe para aprovação, caso seja necessária. Se foram necessários ajustes, de
 ##### Produção
 Com o plano de curso revisado e aprovado, pode iniciar a produção do material que utilizará para o ensino.
 
+##### Revisão
+Realizar uma revisão do conteúdo detalhado.
+
 ###Execução
 
-Seguindo a estrutura definida anteriormente, parte-se para execução do treinamento com a sua aplicação prática, possuindo dois fatores fundamentais:
+Seguindo a estrutura definida anteriormente, parte-se para execução do treinamento com a sua aplicação prática, possuindo três fatores fundamentais:
 
 * A qualidade da aplicação do conteúdo
 * A eficiência dos resultados
@@ -136,10 +139,12 @@ Seguindo a estrutura definida anteriormente, parte-se para execução do treinam
 ####Aplicação do treinamento
 
 ##### Pré-treinamento
-O objetivo desta etapa é garantir o fornecimento dos recursos, e o nivelamento básico do treinandos, de forma a obter o melhor aproveitamento do treinamento.
+O objetivo desta etapa é garantir o fornecimento dos recursos, e o nivelamento básico do alunos, de forma a obter o melhor aproveitamento do treinamento.
 
-* Fornecer ao instrutor as informações necessárias e acesso ao recursos que serão utilizados.
-* Informar o treinando sobre a natureza do treinamento, quais lacunas de competência se pretende eliminar. Se necessário, quais recursos este deve ter anteriormente a iniciar o treinamento.
+* Fornecer ao instrutor* as informações necessárias e acesso ao recursos que serão utilizados.
+* Informar o aluno sobre a natureza do treinamento, quais lacunas de competência se pretende eliminar. Se necessário, quais recursos este deve ter anteriormente a iniciar o treinamento.
+
+>*O instrutor pode ou não ser o eleborador do conteúdo.
 
 ##### Treinamento
 Etapa operacional, abrange o treinamento em si.
@@ -152,14 +157,16 @@ Esta etapa se destina princialmente à avaliação, melhoramento, métrica e aud
 
 * **Recebimento de informações do treinado** - através de um relatório de treinamento, para avalização da satisfação e qualidade do material apresentado nessa perspectiva.
 * **Recebimento de informações do instrutor** - um pequeno relatório que deve priorizar os pontos fortes e fracos do processo, dificuldades encontradas para a passagem do conhecimento.
-* **Fornecimento de informações para formação de métricas** - para gestores e pessoal envolvido no treinamento. Métricas, índices com base nas informações dos relatórios de instrutor/treinandos.
-* **Avaliação** - Mensuração do conhecimento absorvido por parte do Treinando.
+* **Fornecimento de informações para formação de métricas** - para gestores e pessoal envolvido no treinamento. Métricas, índices com base nas informações dos relatórios de instrutor/alunos.
+* **Avaliação** - Mensuração do conhecimento absorvido por parte do Aluno. 
+
+>**!** - **Avaliação como validação de conhecimento prévio** - Se houver casos que alunos, desejam somente validar seu conhecimento prévio, no assunto do treinamento.  Deve-se dar como opção, realizar a avaliação de forma isolada.
 
 ###### Relatório de avaliação
 É conveniente que ao concluir o treinamento, este seja devidamente documentado nos registros de treinamento.
 Este relatório pode incluir:
 
-* Precificação das necessidades de treinamento - Em forma resumida, com seus principais tópicos.
+* Necessidades de treinamento - Em forma resumida, com seus principais tópicos.
 * Critério de avaliação e descrição das fontes, métodos e períodos para avaliação.
 * Análise de dados coletados e interpretação dos resultados.
 * Análise critica dos custos do treinamento.
@@ -169,11 +176,12 @@ Este relatório pode incluir:
 	* Impedimentos
 	* Sugestões
 
+---
 
 ####Avaliação dos resultados
 Corresponde ao último estágio do processo de treinamento. Para permitir comparar o resultado ao esperado na execução.
 
-Os resultados do treinamento em geral não podem ser plenamente abalizados até que o treinando possa ser observado e avaliado no desempenho do seu trabalho.
+Os resultados do treinamento em geral não podem ser plenamente abalizados até que o aluno possa ser observado e avaliado no desempenho do seu trabalho.
 
 É conveniente que as avaliações  sejam feitas, em mais de um período:
 
@@ -187,40 +195,24 @@ A permanência dos problemas/lacunas diagnosticados após treinamento, deve leva
 * **A programação não foi correta** - o sequenciamento do conteúdo não foi adequado para sua assimilação.
 * **A execução do treinamento foi precária** - falta de didática, uso de metodologias inadequadas ao tipo de conhecimento que se deseja passar.
 * **A condição de trabalho não foi adequada** - falta de infraestrutura, ou recursos/materiais inadequados
-* **O treinando não se encontrava motivado** - falta de interesse pelo assunto apresentado
-* **O treinando não era capaz para aquele tipo de treinamento** - não possuía o conhecimento base necessário para aquisição de temas mais avançados.
+* **O aluno não se encontrava motivado** - falta de interesse pelo assunto apresentado
+* **O aluno não era capaz para aquele tipo de treinamento** - não possuía o conhecimento base necessário para aquisição de temas mais avançados.
+* **O conteúdo apresentado não está atualizado** - o material apresenta informações defasadas quanto a tecnologia ou ferramental.
+* **Infraestrutura não adequada** - Is recursos utilizados no treinamento, os quais podem possibilitar uma melhoria na aprendizagem quando corretamente dimensionados ao numero de alunos, e com didática condizente. Para garantir a padronização do treinamento, e a correta validação posterior é de suma importancia que sejam descriminados nas observações do instrutor, quais materias foram planeados, quais forma realmente utilizados.
+
+---
 
 ###Monitoramento e Auditoria
 
 ####Validação do processo de treinamento
+Conduzida por um profissional externo, que verifique se os o processo de treinamento foi conduzido da maneira estabelecida.
 Para a melhoria continua do processo de treinamento, deve ser coletado, identificado e registrado, todos is itens não conformes aos procedimentos e requisitos. Propondo ações corretivas para melhoria.
 
 * **Procedimento foram seguidos e requisitos alcançados** - O registros devem ser atualizados para refletir a competência adicional.
 * **Procedimentos não foram seguidos mas requisitos foram alcançados** - O procedimentos deverão ser revistos. O registros devem ser atualizados para refletir a competência adicional.
 * **Procedimentos foram seguidos mas os requisitos não foram alcançados** - Propor ações corretivas, ou desenvolver uma solução alternativa de treinamento.
 
-###Infraestrutura
-Os recursos utilizados no treinamento, os quais podem possibilitar uma melhoria na aprendizagem quando corretamente dimensionados ao numero de treinandos, e com didática condizente.
-
->**!** - Para garantir a padronização do treinamento, e a correta validação posterior é de suma importancia que sejam descriminados nas observações do instrutor, quais materias foram planeados, quais forma realmente utilizados.
-
-###Custo do treinamento
-Contabilização das despesas que fazem parte do treinamento
-
-#### Custo total
-É o conjunto do investimento total realizado.
-
-**Cálculo:** `` CustoTotal = CustoDireto + CustoIndireto ``
-
-#### Custo homem-hora
-Valor do treinamento considerando-se o fator tempo.
-
-**Cálculo:** ``CustoHomemHora = CustoTotal / (TotalTreinandos . TotalHoras) ``
-
-#### Custo por treinando
-Quanto foi investido com cada um dos treinandos que participaram do evento.
-**Cálculo:** ``CustoPerTreinando = CustoTotal / TotalTreinandos ``
-
+---
 
 ##Referências
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10015: Gestão de qualidade- Diretrizes para treinamento. Rio de Janeiro: ABNT, 2001
