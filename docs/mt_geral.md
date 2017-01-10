@@ -160,37 +160,26 @@ Etapa operacional, abrange o treinamento em si.
 #### Pós-treinamento
 Esta etapa se destina principalmente à avaliação, melhoramento, métrica e auditoria.
 
-##### Curto prazo
+É conveniente que as avaliações sejam feitas, em mais de um período.
+
+##### A curto prazo
+Opinião sobre métodos/recursos adotados, e sobre os conhecimento e habilidades adquiridas como resultado. *Um exemplo: Ao se fazer uso da metodologia de projetos protótipos, pode-se obter uma métrica da proficiência do treinado naquele cenário.*
+
 * **Recebimento de informações do treinado** - através de um relatório de treinamento, para avaliação da satisfação e qualidade do material apresentado nessa perspectiva.
 * **Recebimento de informações do instrutor** - um pequeno relatório que deve priorizar os pontos fortes e fracos do processo, dificuldades encontradas para a passagem do conhecimento.
 
-##### Longo prazo
-
-* **Avaliação** - Mensuração do conhecimento absorvido por parte do Aluno.
-> É interessante que possam ser criadas métricas, índices com base nas informações dos relatórios de instrutor/alunos.
->**!** - **Avaliação como validação de conhecimento prévio** - Se houver casos que alunos, desejam somente validar seu conhecimento prévio, no assunto do treinamento.  Deve-se dar como opção, realizar a avaliação de forma isolada.
-
-##### Relatório de avaliação
+###### Relatório de avaliação
 É conveniente que ao concluir o treinamento, este seja devidamente documentado nos registros de treinamento.
 Este relatório pode incluir:
 
-* Necessidades de treinamento - Em forma resumida, com seus principais tópicos.
-* Critério de avaliação e descrição das fontes, métodos e períodos para avaliação.
-* Análise de dados coletados e interpretação dos resultados.
-* Análise crítica dos custos do treinamento.
+* Análise dos custos do treinamento.
 * Conclusões e recomendações para melhoria.
 * Observações.
 	* Ações de não conformidades
 	* Impedimentos
 	* Sugestões
 
----
 
-###Avaliação dos resultados
-Corresponde ao último estágio do processo de treinamento. Para permitir comparar o resultado ao esperado na execução.
-A permanência dos problemas/lacunas diagnosticados após treinamento, deve levar a uma avaliação dos seguintes pontos para um replanejamento do treinamento.
-
-Os resultados do treinamento em geral não podem ser plenamente abalizados até que o aluno possa ser observado e avaliado no desempenho do seu trabalho.
 
 * **O diagnóstico foi mal feito** - a avaliação não está adequada ao tipo de atividade que se deseja avaliar.
 * **A programação não foi correta** - o sequenciamento do conteúdo não foi adequado para sua assimilação.
@@ -201,9 +190,22 @@ Os resultados do treinamento em geral não podem ser plenamente abalizados até 
 * **O conteúdo apresentado não está atualizado** - o material apresenta informações defasadas quanto a tecnologia ou ferramental.
 * **Infra Estrutura não adequada** - Os recursos utilizados no treinamento, os quais podem possibilitar uma melhoria na aprendizagem quando corretamente dimensionados ao número de alunos, e com didática condizente. Para garantir a padronização do treinamento, e a correta validação posterior é de suma importância que sejam discriminados nas observações do instrutor, quais materiais foram planeados, quais foram realmente utilizados.
 
-É conveniente que as avaliações sejam feitas, em mais de um período. 
-* **A curto prazo** -Opinião sobre métodos/recursos adotados, e sobre os conhecimento e habilidades adquiridas como resultado. *Um exemplo: Ao se fazer uso da metodologia de projetos protótipos, pode-se obter uma métrica da proficiência do treinado naquele cenário.*
-* **A longo prazo** - Melhoria de produtividade/qualidade e do desempenho no trabalho.
+
+##### A longo prazo
+Corresponde ao último estágio do processo de treinamento. Para permitir comparar o resultado ao esperado na execução.
+A permanência dos problemas/lacunas diagnosticados após treinamento, deve levar a uma avaliação dos seguintes pontos para um replanejamento do treinamento.
+
+Os resultados do treinamento em geral não podem ser plenamente abalizados até que o aluno possa ser observado e avaliado no desempenho do seu trabalho.
+
+##### Relatório de avaliação
+É conveniente que ao concluir o treinamento, este seja devidamente documentado nos registros de treinamento.
+* Verificar a melhoria de produtividade/qualidade e do desempenho no trabalho.
+* Mensuração do conhecimento absorvido por parte do Aluno.
+
+> É interessante que possam ser criadas métricas, índices com base nas informações dos relatórios de instrutor/alunos.
+
+
+>**!** - **Avaliação como validação de conhecimento prévio** - Se houver casos que alunos, desejam somente validar seu conhecimento prévio, no assunto do treinamento.  Deve-se dar como opção, realizar a avaliação de forma isolada.
 
 ---
 
