@@ -60,11 +60,11 @@ Há itens que podem restringir o processo de treinamento, tais como:
 Dentre a definição dos métodos o autotreinamento e treinamento no local de trabalho são os que mais se adequa a nossa realidade.
 
 * **Autotreinamento** - Fazendo uso de um conjunto de materiais e autoavaliações, práticas e teóricas, o aluno obtém o conhecimento sem a necessidade de acompanhamento externo. É necessário, para fim de melhoria e auditoria do processo de treinamento, a preparação de um relatório do treinamento.
-	* **Projetos protótipos** - Uso de pequenos projetos, de forma a fixar o conhecimento e domínio de ferramental, devendo possuir um sistema de auto-verificação.
+	* **Projetos protótipos** - Uso de pequenos projetos, de forma a fixar o conhecimento e domínio de ferramental, podendo possuir um sistema de auto-verificação, ou ser conferido pelo instrutor.
 * **Treinamento em local de trabalho** - O conhecimento é passado para os treinados com um auxílio de um instrutor/facilitador. Possuindo variações:
 	* **Expositivo** - Apresenta-se o tópico de estudo, detalhando suas caracteristicas.
 	* **Oficinas** - Atividades práticas em pequenos grupos, de forma a promover a cooperação, análise e prática do conhecimento.
-	* **Laboratório** - Estudos experimentais, de conteúdos ou ferramentais. Uma boa forma de realização uma polinização cruzada entre equipes que trabalham em contextos diversos.
+	* **Laboratório** - Estudos experimentais, de conteúdos ou ferramentais.
 
 ####Critérios de seleção
 
@@ -75,7 +75,7 @@ Para uma correta escolha de método, é importante observar as seguintes questõ
 * **Duração do treinamento** - Quanto tempo é necessário para realizar todo o processo de treinamento. Deve-se levar em conta o tempo necessário para avaliações e apoio, sendo importante manter uma pequena margem para o fomentar o diálogo e reflexão no processo.
 * **Data e local** - Para certas modalidades de treinamento, faz-se necessário prosseguir de forma contínua por maior período de tempo, subdividindo o treinamento em menores partes. Logo,deve se observar a agenda de projetos para o momento mais propício, de forma a não perder a cadência de ensino nem afetar os processos internos.
 * **Infraestrutura e instalações** - Treinamentos em local de trabalho pressupõe que todos terão em mãos os recursos necessários para realização dos estudos. Portanto, é importante dimensionar corretamente a estrutura disponível.
-* **Custo** - Aquisição de recursos. Um tópico posterior trata da questão custo/hora.
+* **Custo** - Aquisição de recursos. Aluguel de laboratório por exemplo.
 * **Formas de avaliação e certificação** - Quais formas de avaliação serão adotadas de forma a determinar o nível de absorção do conhecimento. Como elas se ajustam às necessidades do público -alvo para determinar sua capacidade de certificar.
 
 ---
@@ -95,7 +95,7 @@ Determine o tempo necessário para aplicar o treinamento, antes de preparar e co
 
 >*Carga Horário 5 horas - Aplicação: Duas apresentações de 1 hora cada e 3 horas de workshop com hand-on.*
 
->**!** - Antes de detalhar é apenas uma pré-estimativa. Na prática, ainda no estágio do plano, se apresenta como um processo interativo (muito extenso: enxugar, muito curto: detalhar mais), sendo esta validade na primeira execução.
+>**!** - Antes de detalhar é apenas uma pré-estimativa. Na prática, ainda no estágio do plano, se apresenta como um processo iterativo (muito extenso: enxugar, muito curto: detalhar mais). O tempo real será conhecido apenas na primeira execução.
 
 #### O Plano
 Detalhar o  plano na forma de temas, tópicos e seus objetivos específicos. Cada tópico deve possuir um objetivo específico. Este também deve possuir o método utilizado para passar esse conhecimento. O tópico ainda deve apresentar o tempo estimado a sua realização.
@@ -118,22 +118,26 @@ Talvez seja interessante partir para tópicos mais avançados de forma a manter 
 
 * Opcional: Peça para o plano ser revisado por outro colaborador, antes da entrega para avaliação.
 
-#### Aprovação
+#### Aprovação do plano
 Passe para aprovação, caso seja necessária. Se foram necessários ajustes, devido a questões de tempo, conteúdo, ou mesmo tecnologia empregada, crie uma segunda versão do plano de curso, realizando os ajustes necessários.
 
 #### Produção
 Com o plano de curso revisado e aprovado, pode iniciar a produção do material que utilizará para o ensino.
 
-#### Revisão
-Realizar uma revisão do conteúdo detalhado.
+#### Aprovação do conteúdo
+Mesmo processo de aprovação do conteúdo detalhado, realizado com o Supervisor responsável.
 
-#### Execução
+#### Execução do piloto
 
 Seguindo a estrutura definida anteriormente, parte-se para execução do treinamento com a sua aplicação prática, possuindo três fatores fundamentais:
 
 * A qualidade da aplicação do conteúdo
 * A eficiência dos resultados
 * Monitoração da qualidade do treinamento oferecido.
+
+#### Plano final
+
+Com o feedback da primeira execução deve-se voltar ao plano e ajustar os tempos para valores mais realistas, se for o caso.
 
 ---
 
@@ -156,11 +160,14 @@ Etapa operacional, abrange o treinamento em si.
 #### Pós-treinamento
 Esta etapa se destina principalmente à avaliação, melhoramento, métrica e auditoria.
 
+##### Curto prazo
 * **Recebimento de informações do treinado** - através de um relatório de treinamento, para avaliação da satisfação e qualidade do material apresentado nessa perspectiva.
 * **Recebimento de informações do instrutor** - um pequeno relatório que deve priorizar os pontos fortes e fracos do processo, dificuldades encontradas para a passagem do conhecimento.
-* **Fornecimento de informações para formação de métricas** - para gestores e pessoal envolvido no treinamento. Métricas, índices com base nas informações dos relatórios de instrutor/alunos.
-* **Avaliação** - Mensuração do conhecimento absorvido por parte do Aluno. 
 
+##### Longo prazo
+
+* **Avaliação** - Mensuração do conhecimento absorvido por parte do Aluno.
+> É interessante que possam ser criadas métricas, índices com base nas informações dos relatórios de instrutor/alunos.
 >**!** - **Avaliação como validação de conhecimento prévio** - Se houver casos que alunos, desejam somente validar seu conhecimento prévio, no assunto do treinamento.  Deve-se dar como opção, realizar a avaliação de forma isolada.
 
 ##### Relatório de avaliação
