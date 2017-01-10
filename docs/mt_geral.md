@@ -159,44 +159,53 @@ Etapa operacional, abrange o treinamento em si.
 
 #### Pós-treinamento
 Esta etapa se destina principalmente à avaliação, melhoramento, métrica e auditoria.
+
 É conveniente que as avaliações sejam feitas, em mais de um período.
 
-##### Avaliação a curto prazo
-Opinião sobre métodos/recursos adotados, e sobre os conhecimento e habilidades adquiridas como resultado.
+##### A curto prazo
+Opinião sobre métodos/recursos adotados, e sobre os conhecimento e habilidades adquiridas como resultado. *Um exemplo: Ao se fazer uso da metodologia de projetos protótipos, pode-se obter uma métrica da proficiência do treinado naquele cenário.*
 
-###### Obtendo informações dos participantes
-* **Recebimento de informações do treinado** - através de um pequeno relatório de treinamento, para avaliação da satisfação e qualidade do material apresentado nessa perspectiva.
+* **Recebimento de informações do treinado** - através de um relatório de treinamento, para avaliação da satisfação e qualidade do material apresentado nessa perspectiva.
 * **Recebimento de informações do instrutor** - um pequeno relatório que deve priorizar os pontos fortes e fracos do processo, dificuldades encontradas para a passagem do conhecimento.
 
-Esta avaliação gera um relatório que pode incluir:
+###### Relatório de avaliação
+É conveniente que ao concluir o treinamento, este seja devidamente documentado nos registros de treinamento.
+Este relatório pode incluir:
+
 * Análise dos custos do treinamento.
 * Conclusões e recomendações para melhoria.
 * Observações.
-* Impedimentos.
-* Sugestões.
-* Não conformidades.
-	* **O diagnóstico foi mal feito** - a avaliação não está adequada ao tipo de atividade que se deseja avaliar.
-    * **A programação não foi correta** - o sequenciamento do conteúdo não foi adequado para sua assimilação.
-    * **A execução do treinamento foi precária** - falta de didática, uso de metodologias inadequadas ao tipo de conhecimento que se deseja passar.
-    * **A condição de trabalho não foi adequada** - falta de infraestrutura, ou recursos/materiais inadequados
-	* **O aluno não se encontrava motivado** - falta de interesse pelo assunto apresentado
-	* **O aluno não era capaz para aquele tipo de treinamento** - não possuía o conhecimento básico necessário para aquisição de temas mais avançados.
-	* **O conteúdo apresentado não está atualizado** - o material apresenta informações defasadas quanto a tecnologia ou ferramental.
-	* **Infra Estrutura não adequada** - Os recursos utilizados no treinamento, os quais podem possibilitar uma melhoria na aprendizagem quando corretamente dimensionados ao número de alunos, e com didática condizente. Para garantir a padronização do treinamento, e a correta validação posterior é de suma importância que sejam discriminados nas observações do instrutor, quais materiais foram planeados, quais foram realmente utilizados.
+	* Ações de não conformidades
+	* Impedimentos
+	* Sugestões
 
->**!** - **Avaliação como validação de conhecimento prévio** - Se houver casos que alunos, desejam somente validar seu conhecimento prévio, no assunto do treinamento.  Deve-se dar como opção, realizar a avaliação de forma isolada.
 
-##### Avaliação a longo prazo
+
+* **O diagnóstico foi mal feito** - a avaliação não está adequada ao tipo de atividade que se deseja avaliar.
+* **A programação não foi correta** - o sequenciamento do conteúdo não foi adequado para sua assimilação.
+* **A execução do treinamento foi precária** - falta de didática, uso de metodologias inadequadas ao tipo de conhecimento que se deseja passar.
+* **A condição de trabalho não foi adequada** - falta de infraestrutura, ou recursos/materiais inadequados
+* **O aluno não se encontrava motivado** - falta de interesse pelo assunto apresentado
+* **O aluno não era capaz para aquele tipo de treinamento** - não possuía o conhecimento básico necessário para aquisição de temas mais avançados.
+* **O conteúdo apresentado não está atualizado** - o material apresenta informações defasadas quanto a tecnologia ou ferramental.
+* **Infra Estrutura não adequada** - Os recursos utilizados no treinamento, os quais podem possibilitar uma melhoria na aprendizagem quando corretamente dimensionados ao número de alunos, e com didática condizente. Para garantir a padronização do treinamento, e a correta validação posterior é de suma importância que sejam discriminados nas observações do instrutor, quais materiais foram planeados, quais foram realmente utilizados.
+
+
+##### A longo prazo
 Corresponde ao último estágio do processo de treinamento. Para permitir comparar o resultado ao esperado na execução.
 A permanência dos problemas/lacunas diagnosticados após treinamento, deve levar a uma avaliação dos seguintes pontos para um replanejamento do treinamento.
 
 Os resultados do treinamento em geral não podem ser plenamente abalizados até que o aluno possa ser observado e avaliado no desempenho do seu trabalho.
 
+##### Relatório de avaliação
 É conveniente que ao concluir o treinamento, este seja devidamente documentado nos registros de treinamento.
 * Verificar a melhoria de produtividade/qualidade e do desempenho no trabalho.
 * Mensuração do conhecimento absorvido por parte do Aluno.
 
 > É interessante que possam ser criadas métricas, índices com base nas informações dos relatórios de instrutor/alunos.
+
+
+>**!** - **Avaliação como validação de conhecimento prévio** - Se houver casos que alunos, desejam somente validar seu conhecimento prévio, no assunto do treinamento.  Deve-se dar como opção, realizar a avaliação de forma isolada.
 
 ---
 
