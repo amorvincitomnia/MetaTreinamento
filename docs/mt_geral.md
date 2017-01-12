@@ -15,6 +15,9 @@ Visão geral do processo de treinamento, como um processo de quatro estágios.
 ![quatroestagios](./quatroestagios.png)
 *(NBR 10015, pag 3)*
 
+## Fluxo
+![fluxo](./fluxo.png)
+
 ##Diretrizes
 
 ###Levantamento das necessidades
